@@ -1,0 +1,7 @@
+<suite name="Cucumber Practice">
+    <test name="Suite">
+        <classes>
+            <class name="com.globant.TestRunner" />
+        </classes>
+    </test>
+</suite>
